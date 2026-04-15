@@ -1,6 +1,6 @@
 # MountainsCalling.me
 
-17 years. All 63 U.S. National Parks. One van. A camera. And the realization that finishing the list wasn't an ending, it was a foundation.
+17 years. All 63 U.S. National Parks. And the realization that finishing the list wasn't an ending, it was a foundation.
 
 MountainsCalling.me is the home of Eric Kufrin: National Parks storyteller, photographer, and professionally permitted Yosemite guide. What started as a personal goal to visit every National Park became a way of living, and eventually, a way of working.
 
@@ -21,14 +21,14 @@ The guide business. [Yosemite Life](https://yosemite.life) operates under a [Nat
 ### Trail Guides
 
 - [The Mist Trail: Yosemite's Best Day Hike](https://yosemite.life/articles/mist-trail-yosemite-guide/)
-- [Clouds Rest: Yosemite's Best Summit You Don't Need a Permit For](https://yosemite.life/articles/clouds-rest-yosemite-guide/)
 - [OMG Point and the Yosemite Falls Trail](https://yosemite.life/articles/omg-point-yosemite-falls-trail/)
+- [Clouds Rest: Yosemite's Best Summit You Don't Need a Permit For](https://yosemite.life/articles/clouds-rest-yosemite-guide/)
 - [Mariposa Grove Trail Guide: Yosemite's Giant Sequoias](https://yosemite.life/articles/mariposa-grove-yosemite-guide/)
 
 ### Planning & Permits
 
-- [Yosemite Backpacking Permits: The Complete 2026 Guide](https://yosemite.life/articles/yosemite-backpacking-permits/)
 - [Half Dome Permits: The Complete 2026 Guide](https://yosemite.life/articles/half-dome-permits/)
+- [Yosemite Backpacking Permits: The Complete 2026 Guide](https://yosemite.life/articles/yosemite-backpacking-permits/)
 - [Backpacking in Bear Country: Everything You Need to Know](https://yosemite.life/articles/backpacking-in-bear-country/)
 - [Why Hire a Yosemite Guide?](https://yosemite.life/articles/why-hire-a-yosemite-guide/)
 
