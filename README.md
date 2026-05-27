@@ -50,6 +50,16 @@ The guide business. [Yosemite Life](https://yosemite.life) operates under a [Nat
 - [FAQ](https://yosemite.life/faq/)
 - [Contact](https://yosemite.life/contact/)
 
+## Yosemite.live
+
+Four million people visit Yosemite every year, and none of them have a reliable way to know how long they'll wait at the entrance. No agency publishes it. No tool existed. Visitors just drive and hope.
+
+[Yosemite.live](https://yosemite.live) is a free mobile app — native on iPhone and Android — that shows real-time entrance wait times, crowd predictions, weather, and NPS alerts. One glance the night before and you know whether to set the alarm for 5 or sleep until 7.
+
+Solo-built by Eric. No team. No outside funding.
+
+→ **[yosemite.live](https://yosemite.live)**
+
 ## Stories
 
 - [The Dirty Secret of Finding a Yosemite Guide: Fake Links & Illegal Tours](https://mountainscalling.me/blog/yosemite-guide-secrets/)
